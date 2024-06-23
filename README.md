@@ -7,4 +7,6 @@ To run the code in VS Code:
 6. Choose the python environment in your laptop.
 
 To run the code in Google Colab:
-![image](https://github.com/Shirley24k/Bank-Loan-Approval/assets/84895009/79f55eb8-37a7-4401-afb7-403ee19b672c)
+1. To run the code, kindly click the link below: https://colab.research.google.com/drive/11tZIHH_TE18cNbZwuOjy7UDmwVv0deRe?usp=sharing
+2. Upload ‘BankLoanApproval.csv’ and ‘NewApplicants.csv’ before running the code.
+![image](https://github.com/Shirley24k/Bank-Loan-Approval/assets/84895009/fac5015f-f7a5-4fcb-a865-05546f50bc83)
